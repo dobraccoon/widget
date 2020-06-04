@@ -12,7 +12,7 @@ spring:
 widget:
   config:
     h2storage:
-      enabled: true
+      enabled: false
     pagingConfig:
       defaultPagingResultSize: 10
       widgetLimitForLoadingPerQuery: 500
